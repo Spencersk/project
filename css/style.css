@@ -1,0 +1,27 @@
+body {
+  margin: 0px;
+}
+.main-nav {
+  height: 75px;
+  background-color: gray;
+  padding-right: 15px;
+}
+.logo {
+  height: 100%;
+}
+.nav-list {
+  float: right;
+  list-style: none;
+  color:green;
+  margin-top: 25px;
+}
+.nav-item {
+  float: right;
+  color: green;
+  margin-left: 15px;
+}
+.nav-link {
+  text-decoration: none;
+  color: green;
+  padding-right:1px; 
+}
